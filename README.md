@@ -8,8 +8,3 @@
 * ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 * ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-## Screenshots
-
-![App Screenshot](https://i.postimg.cc/qv1w3WH0/image.png)
-![App Screenshot](https://i.postimg.cc/ZY6LcWzw/image.png)
-
